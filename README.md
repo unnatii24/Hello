@@ -1,0 +1,4 @@
+# Hello
+learning to compete
+I am practicing here. 
+Failures are the steps to success!
